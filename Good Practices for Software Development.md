@@ -16,4 +16,4 @@ In these areas, I need improvement:
 My ideas to make progress in those areas are:
 - Allocating specific time daily to improve my English communication skills.
 - Committing to a minimum of 30 minutes of exercise per day.
-- Implementing deep work daily on tasks that require concentrated attention, and refining my communication skills during this process.
+- Implementing deep work daily on tasks that require concentrated attention
