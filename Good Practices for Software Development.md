@@ -6,6 +6,8 @@ Which point(s) were new to you?
 - Implementing Deep Work
 - Doing exercises to maintain high energy levels
 
+
+
 ### Question 2
 Which areas do you think you need to improve on? What are your ideas to make progress in those areas?
 In these areas, I need improvement:
